@@ -137,17 +137,17 @@ sudo wget -O /usr/share/keyrings/jenkins-keyring.asc https://pkg.jenkins.io/debi
 
 ### Step 3 Add Jenkins Repository to APT Sources
 
-```bash
+```
+bash
 echo deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc] \
-  https://pkg.jenkins.io/debian binary/ | sudo tee \
-  /etc/apt/sources.list.d/jenkins.list > /dev/null
-
-
+https://pkg.jenkins.io/debian binary/ | sudo tee \
+/etc/apt/sources.list.d/jenkins.list > /dev/null
 ```
 # Step4 Update System
 go to etc/apt/
 
-```bash
+```
+bash
 
  sudo apt-get update
 ```
@@ -216,13 +216,12 @@ Created symlink /etc/systemd/system/multi-user.target.wants/jenkins.service → 
 Processing triggers for man-db (2.10.2-1) ...
 
 ```
+ ###check Jenkins which jenkins
 
-## check Jenkins which jenkins
 
-
-```
-    which jenkins
-```
+       ```
+          which jenkins
+       ```
 
 
 
@@ -230,10 +229,10 @@ Processing triggers for man-db (2.10.2-1) ...
 ## Step 6 Jenkins Status
 
 
-```
- systemctl status jenkins
+     ```
+        systemctl status jenkins
  
-```
+    ```
 
 ![image](https://github.com/simranpopli05/Jenkins/assets/153719945/38221f91-06d8-4b06-aa1d-5e4a4a1347cf)
 
@@ -243,7 +242,6 @@ Processing triggers for man-db (2.10.2-1) ...
 
 Jenkins will prompt you for a username and password, which were created during the Jenkins installation. To retrieve the initial admin password
 
-![image](https://github.com/simranpopli05/Jenkins/assets/153719945/657f92d8-1dd7-4e39-80e0-afecc251d214)
 
 
 
