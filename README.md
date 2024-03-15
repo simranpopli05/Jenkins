@@ -58,16 +58,16 @@ Jenkins manages the whole traffic flow of development tasks, while Ant is a work
 ![image](https://github.com/simranpopli05/Jenkins/assets/153719945/96e6b4c9-784e-44b1-98dd-3340da6af70a)
 
 ## Architecture of jenkins 
+   1 Jenkins Master:
+   Boss of the operation, makes the plans.
+   Controls and directs everything.
+   Has a web interface for managing tasks.
 
-     1 Jenkins Master:
-        Boss of the operation, makes the plans.
-        Controls and directs everything.
-        Has a web interface for managing tasks.
-
-    2 Jenkins Nodes (Slaves):
-        Workers that do the heavy lifting.
-        Follow the master's instructions.
-        Can be on different computers for teamwork.
+  2 Jenkins Nodes (Slaves):
+    Workers that do the heavy lifting.
+    Follow the master's instructions.
+     Can be on different computers for teamwork.
+        
         
         
  ![image](https://github.com/simranpopli05/Jenkins/assets/153719945/89c94da5-137c-4b0c-8270-0287a4dec4d9)
@@ -78,11 +78,11 @@ Jenkins plugins are software extensions that add new features and functionality 
         
 
 ## Installtion of Jenkins
-    1 Debian/Ubuntu
+1 Debian/Ubuntu
 
-    2  Fedora
+  2  Fedora
 
-   3  Red Hat/Alma/Rocky
+ 3  Red Hat/Alma/Rocky
 
 
 ## Installation of Jenkins
@@ -216,14 +216,14 @@ Created symlink /etc/systemd/system/multi-user.target.wants/jenkins.service → 
 Processing triggers for man-db (2.10.2-1) ...
 
 ```
-## check Jenkins
 
-to check jenkins ditectory
+## check Jenkins which jenkins
 
 
-which jenkins
+```
+    which jenkins
+```
 
-![image](https://github.com/simranpopli05/Jenkins/assets/153719945/1f124e90-d08c-42bc-ae87-af4dd82d14bc)
 
 
 
@@ -243,26 +243,7 @@ which jenkins
 
 Jenkins will prompt you for a username and password, which were created during the Jenkins installation. To retrieve the initial admin password
 
-
-
-![image](https://github.com/simranpopli05/Jenkins/assets/153719945/18fe0e72-d4d3-4304-93d6-3806db4068a7)
-
-
-![image](https://github.com/simranpopli05/Jenkins/assets/153719945/7d540d41-6381-44e5-ade9-096180cda7c9)
-
-
-![image](https://github.com/simranpopli05/Jenkins/assets/153719945/c95e7fc8-4fd3-4999-acc1-ebdadd7fe95a)
-
-
-![image](https://github.com/simranpopli05/Jenkins/assets/153719945/06f98b59-7593-450c-99e0-048ada10ad2b)
-
-
-![image](https://github.com/simranpopli05/Jenkins/assets/153719945/59f996dd-1cd6-4d63-9561-2e8aee4b3d7a)
-
-![image](https://github.com/simranpopli05/Jenkins/assets/153719945/0c6b46c5-97e1-4cd1-b713-838d848a3afd)
-
-![image](https://github.com/simranpopli05/Jenkins/assets/153719945/114e420a-04df-4e59-b1df-62a5ac3930b8)
-
+![image](https://github.com/simranpopli05/Jenkins/assets/153719945/657f92d8-1dd7-4e39-80e0-afecc251d214)
 
 
 
