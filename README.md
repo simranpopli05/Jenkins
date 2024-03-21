@@ -1,3 +1,30 @@
+TABLE OF CONTENT  
+
+[Jenkins](#Jenkins)
+
+[Workflow of jenkins](#workflow-of-jenkins)
+
+[Advantages of jenkis](#advantages-of-jenkis)
+
+[why Jenkins and how it is better from ant?](#why-jenkins-and-how-it-is-better-from-ant)
+
+[ Architecture of jenkins](#architecture-of-jenkins)
+
+[Installtion of Jenkins](#installation-of-jenkins)
+
+ [Prerequisites](#prerequisites)
+
+[Steps for installation of Jenkins](#steps-for-installation-of-jenkins)
+
+- [Step1 Install Java](#step1-install-java)
+
+- [Step 2 Download Jenkins Repository key:](#step-2-download-jenkins-repository-key)
+
+- [Step 3 Add Jenkins Repository to APT Sources](#step-3-add-jenkins-repository-to-apt-sources)
+
+
+
+
 
 ![image](https://github.com/simranpopli05/Jenkins/assets/153719945/789a9ad6-ad0e-4278-a47b-558601b62276)
 
