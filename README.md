@@ -4,7 +4,7 @@ TABLE OF CONTENT
 
 [Workflow of jenkins](#workflow-of-jenkins)
 
-[Advantages of jenkis](#advantages-of-jenkis)
+[Advantages of jenkis](#advantages-of-jenkins)
 
 [why Jenkins and how it is better from ant?](#why-jenkins-and-how-it-is-better-from-ant)
 
@@ -59,7 +59,7 @@ Jenkins is a continuous integration/continuous delivery (CI/CD) tool that automa
        
 ![image](https://github.com/simranpopli05/Jenkins/assets/153719945/5195aca8-b68b-4f2e-87d1-22b88a3f0bad)
 
-## Advantages of jenkis
+## Advantages of jenkins
 1 Saves Time :
         Jenkins helps do repetitive tasks automatically, saving time for developers.
        
@@ -116,7 +116,6 @@ A Jenkins pipeline is a configurable, flexible, and automated workflow that you 
  3  Red Hat/Alma/Rocky
 
 
-## Installation of Jenkins
 ### Linux
 Jenkins installers are available for several Linux distributions.
 
