@@ -4,7 +4,7 @@ TABLE OF CONTENT
 
 [Workflow of jenkins](#workflow-of-jenkins)
 
-[Advantages of jenkis](#advantages-of-jenkins)
+[Advantages of jenkins](#advantages-of-jenkins)
 
 [why Jenkins and how it is better from ant?](#why-jenkins-and-how-it-is-better-from-ant)
 
@@ -22,7 +22,7 @@ TABLE OF CONTENT
 
 - [Step 3 Add Jenkins Repository to APT Sources](#step-3-add-jenkins-repository-to-apt-sources)
 
-
+[Reference link](#Reference-link)  
 
 
 
@@ -265,9 +265,8 @@ systemctl status jenkins
 ![image](https://github.com/simranpopli05/Jenkins/assets/153719945/38221f91-06d8-4b06-aa1d-5e4a4a1347cf)
 
 
-   NOW, Open a web browser.
-    In the address bar, type http:localhost:8080 and press Enter.
-
+  To access a web application running on your local machine on port 8080, open a web browser and enter http://localhost:8080 in the address bar, then press Enter.
+  
 Jenkins will prompt you for a username and password, which were created during the Jenkins installation. To retrieve the initial admin password 
 
 
@@ -292,7 +291,7 @@ Jenkins will prompt you for a username and password, which were created during t
 
 
 
-Refrence link 
+Reference link 
 https://youtu.be/vxSXqvQy95g?si=WfdekZtk2RIxCBp8
 
 
